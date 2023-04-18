@@ -15,4 +15,4 @@ Long-tailed tits are very lovely birds, which are also friendly and possible to 
 
 <sub>This drawing I made is also posted by [THE ETHOGRAM](https://theethogram.com/), the Blog of UC Davis Animal Behavior Graduate Groups. Here is [the link to the blog about the long-tailed tit](https://theethogram.com/2023/04/09/sunday-sketch-the-long-tailed-tit/)</sub>
 
-![Full-width image](../img/Long-tailed tit analysis.jpg){:.lead width="800" height="500" loading="lazy"}
+![Full-width image](../img/Long-tailed tit analysis.png){:.lead width="800" height="500" loading="lazy"}
