@@ -1,3 +1,3 @@
-# My personal webpage
+# This is my personal website
 
-Building and not ready
+I am still building it but you are welcome to visit it.
