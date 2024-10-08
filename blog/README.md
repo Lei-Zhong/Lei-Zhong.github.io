@@ -5,5 +5,5 @@ description: >
   This is my blog, my work on landscape design.
 hide_description: true
 sitemap: false
-permalink: /post/
+permalink: /blog/
 ---
