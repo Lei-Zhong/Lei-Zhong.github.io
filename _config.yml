@@ -20,12 +20,12 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Lei Zhong
+title:                 Portfolio
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  This is a personal website for Lei Zhong
+  A Journey with A Landscape Designer
 
 # A shorter description for the sidebar.
 tagline:               Welcome to my personal webside!
