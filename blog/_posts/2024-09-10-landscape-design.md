@@ -5,6 +5,9 @@ image:
   path: /img/test.jpg
 description: >
   From large-scale planning to garden design.
+  Landscape Planning
+  Landscape Design
+  Garden Design
 sitemap: false
 ---
 
