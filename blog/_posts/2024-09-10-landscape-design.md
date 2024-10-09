@@ -17,7 +17,6 @@ Making a personal website is not that complicated.
 [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 [Landscape Planning](blog/_posts/Landscape-Planning.md)
 * [Install]
-* [Install]{:.heading.flip-title}
 {:.lead}
 
 [install]: Landscape-Planning.md
