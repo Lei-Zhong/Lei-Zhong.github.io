@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sustainable Garden Design
+title: AI Design Lab
 image: 
-  path: /img/test2.jpg
+  path: /img/test.jpg
 description: >
-  A garden requires no maintain and provides endless products.
+  How does design in future work?
 sitemap: false
 ---
 
