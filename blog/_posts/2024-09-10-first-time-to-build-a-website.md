@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My Personal Website
+title: Landscape Architecture
 image: 
   path: /img/test.jpg
 description: >
-  My first post on this website is about itself
+  From large-scale planning to garden design.
 sitemap: false
 ---
 
