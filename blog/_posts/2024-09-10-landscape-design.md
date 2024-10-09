@@ -9,6 +9,7 @@ description: >
   Landscape Design
   Garden Design
   [where to start](#where-to-start)
+  [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 sitemap: false
 ---
 
