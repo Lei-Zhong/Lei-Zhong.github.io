@@ -16,7 +16,11 @@ sitemap: false
 Making a personal website is not that complicated.
 [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 [Landscape Planning](blog/_posts/Landscape-Planning.md)
+* [Install]
+* [Install]{:.heading.flip-title}
 {:.lead}
+
+[install]: Landscape-Planning.md
 
 It only took me two days to make this website, from zero to at least working. It was easier than I thought, and thanks to the convenient tools and resources (Google, ChatPGT, GitHub, and Jekyll) I can learn it fast. Nowadays, we have many tools to build a simple website and everyone can just make their website. Maybe Laziness is indeed the biggest drive for technique advancement.
 
