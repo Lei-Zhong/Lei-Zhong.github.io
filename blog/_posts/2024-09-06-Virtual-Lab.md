@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sustainable Garden Design
+title: Virtual Experience / Interaction Lab
 image: 
   path: /img/test2.jpg
 description: >
-  A garden requires no maintain and provides endless products.
+  Another world!
 sitemap: false
 ---
 
