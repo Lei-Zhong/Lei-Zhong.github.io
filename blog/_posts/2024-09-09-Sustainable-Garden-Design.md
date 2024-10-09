@@ -4,7 +4,7 @@ title: Sustainable Garden Design
 image: 
   path: /img/test2.jpg
 description: >
-  A garden requires no maintain and provides endless products.
+  A garden requires no maintenance and provides endless products.
 sitemap: false
 ---
 
