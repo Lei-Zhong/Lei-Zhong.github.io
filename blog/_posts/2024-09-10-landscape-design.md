@@ -8,7 +8,7 @@ description: >
   Landscape Planning
   Landscape Design
   Garden Design
-  [Landscape Planning](#Landscape-Planning.md)
+  [where to start](#where-to-start)
 sitemap: false
 ---
 
