@@ -11,27 +11,27 @@ sitemap: false
 Designing at Every Scale: My Landscape Architecture Journey
 {:.lead}
 
-##Landscape Planning
-###City Scale: Green Infrastructure
+## Landscape Planning
+### City Scale: Green Infrastructure
 At the city scale, landscape planning focuses on creating sustainable, resilient urban environments through green infrastructure. My work in this area has included developing large-scale strategies that integrate natural systems—such as green corridors, rain gardens, and urban parks—into urban frameworks. By using nature-based solutions, these plans aim to improve urban resilience to climate change while enhancing livability and biodiversity.
 
-1.2 Campus: GIS Analysis
+### Campus: GIS Analysis
 On a smaller, yet equally impactful scale, I have used Geographic Information System (GIS) technology to analyze and plan campus landscapes. GIS provides a powerful tool for understanding topography, hydrology, and spatial patterns, allowing for more informed decision-making. My work in this area has involved optimizing green spaces on educational campuses, ensuring that they support both ecological functions and the needs of students, faculty, and staff.
 
-2. Landscape Design
-2.1 City Center: Open Space – Shengang
+## Landscape Design
+### City Center: Open Space – Shengang
 In the heart of Shengang’s bustling city center, I worked on a major open space project designed to create a vibrant, accessible area for both residents and visitors. The design balances aesthetics and functionality, with green spaces, seating areas, and pathways that encourage movement and relaxation. It also incorporates sustainable elements, such as permeable paving and native plantings, to reduce environmental impact.
 
-2.2 Community: Chiwan
+### Community: Chiwan
 Chiwan is a community-focused project where the goal was to create an inclusive, interactive space that reflects the needs and values of local residents. My design incorporated playgrounds, community gardens, and shaded seating areas, fostering a sense of belonging and providing a multifunctional space for people of all ages to gather.
 
-2.3 Park: Gangtou
+### Park: Gangtou
 The Gangtou Park project was centered on revitalizing a public park to enhance its ecological value and recreational potential. My design introduced a mix of active and passive spaces, including walking trails, picnic areas, and restored wetlands. This project aimed to create a harmonious balance between natural habitats and human use, ensuring that the park remains a vital green space for the community.
 
-3. Garden Design
+## Garden Design
 Garden design is a more intimate and detailed scale of landscape architecture, where every element plays a crucial role in shaping the overall experience of the space. I’ve worked on several private gardens, focusing on creating personalized outdoor environments that reflect the unique tastes and needs of the client. Whether it’s a serene retreat or a vibrant, plant-filled oasis, garden design allows for a deep connection between people and nature.
 
-4. Project List
+## Project List
 Here’s a quick overview of some of the key projects I’ve worked on:
 
 Shengang City Center Open Space
@@ -39,7 +39,8 @@ Chiwan Community Landscape
 Gangtou Park Revitalization
 Campus Green Space Planning and GIS Analysis
 Private Garden Designs
-5. Abilities
+
+## Abilities
 Throughout my career, I have developed a range of skills that allow me to approach landscape architecture projects with a comprehensive and adaptable mindset:
 
 Master Planning & Green Infrastructure Development
