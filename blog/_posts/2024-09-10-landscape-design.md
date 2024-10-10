@@ -4,11 +4,11 @@ title: Landscape Architecture
 image: 
   path: /img/test.jpg
 description: >
-  With over 10 years of experience in landscape architecture, I hold a Bachelor's degree in the field and have conducted extensive research in large-scale landscapes. My work spans across various sectors, from collaborating with firms on complex projects to providing tailored design solutions for residential and commercial spaces. Whether working on public spaces, ecological restoration, or detailed garden designs, I bring a thoughtful, sustainable approach to every project.
+  Welcome to my landscape architecture portfolio, where I share my journey across the different scales — [landscape planning](Landscape-Planning.md), [landscape design](Landscape-Planning.md), and [garden design](Landscape-Planning.md).
 sitemap: false
 ---
 
-Welcome to my landscape architecture portfolio, where I share my journey across the different scales — [landscape planning](Landscape-Planning.md), [landscape design](Landscape-Planning.md), and [garden design](Landscape-Planning.md).
+A 10 years journey.
 {:.lead}
 
 From large-scale environmental planning to the intimate details of garden spaces, I’ve had the opportunity to work at all levels within the field. Each of these areas represents a unique set of skills and design approaches, and I’m excited to share my experience and insights with you.
