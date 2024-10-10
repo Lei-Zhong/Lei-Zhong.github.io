@@ -2,7 +2,7 @@
 layout: post
 title: Virtual Experience / Interaction Lab
 image: 
-  path: /img/test2.jpg
+  path: /img/test6.jpg
 description: >
   Another world!
 sitemap: false
