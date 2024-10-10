@@ -4,12 +4,7 @@ title: Landscape Architecture
 image: 
   path: /img/test.jpg
 description: >
-  From large-scale planning to garden design.
-  Landscape Planning
-  Landscape Design
-  Garden Design
-  [where to start](#where-to-start)
-  [Quickstart for GitHub Pages](blog/_posts/Landscape-Planning.md)
+  Welcome to my landscape architecture portfolio, where I share my journey across the different scales—landscape planning, landscape design, and garden design. From large-scale environmental planning to the intimate details of garden spaces, I’ve had the opportunity to work at all levels within the field. Each of these areas represents a unique set of skills and design approaches, and I’m excited to share my experience and insights with you.
 sitemap: false
 ---
 
