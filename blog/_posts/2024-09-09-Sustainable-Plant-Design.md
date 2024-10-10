@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sustainable Garden Design
+title: Sustainable Plant Design
 image: 
   path: /img/test2.jpg
 description: >
