@@ -2,7 +2,7 @@
 layout: post
 title: Sustainable Plant Design
 image: 
-  path: /img/test5.jpg
+  path: /img/test3.jpg
 description: >
   The idea of sustainable plant design came to me during my early explorations into landscape architecture. I was fascinated by how plants could do more than just beautify a space—they could serve as a key to sustainability.
 sitemap: false
