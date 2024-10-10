@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Environment Art
+title: Environment Artist
 image: 
   path: /img/test3.jpg
 description: >
-  A Landscape and a map for game.
+  A Landscape and a map for games.
 sitemap: false
 ---
 
