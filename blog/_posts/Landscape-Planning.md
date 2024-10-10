@@ -7,26 +7,14 @@ sitemap: false
 ---
 
 # About me
-Hi, I’m Lei, a passionate landscape architect with a strong foundation in both design and water management. I hold a Bachelor’s degree in Landscape Architecture and a Master’s in Water Management, which together shape my approach to creating sustainable and aesthetically captivating outdoor spaces. With over four years of professional experience, I’ve developed expertise in designing, planning, and managing projects from concept to construction.
+Landscape architecture, to me, is about creating spaces that resonate with people and nature alike. It's more than just arranging plants or designing parks—it's about understanding how the environment and human experiences intertwine. Whether I'm working on a large city-scale project or a small garden design, I approach each with the same mindset: how can this space tell a story, solve a problem, and enhance life?
 
-My work focuses on blending ecological sensitivity with creative design solutions. I’m proficient in tools like AutoCAD, Rhino, SketchUp, Illustrator, and Photoshop, which allow me to create precise 2D plans, detailed 3D models, and compelling presentations. Furthermore, I thrive in the process of exploration and innovation, embracing cutting-edge design approaches and software. In addition to design, I have experience in project management, which has sharpened my ability to balance creative vision with technical execution and client needs. 
+One of the things I love about landscape architecture is its versatility. It spans so many scales, and each one requires a different set of eyes and skills. At the city scale, it's about zooming out, seeing the bigger picture—how green infrastructure can soften the harshness of urban life, how we can mitigate the impacts of climate change, or how public spaces can foster community interaction. It’s incredibly rewarding to know that the spaces we design have the power to shape cities and improve the daily lives of people who live there.
 
-Currently based in Berlin, I’m continuing to expand my expertise in landscape architecture and water-sensitive design, while also learning German to further integrate into the local industry. I’m always looking for new opportunities to collaborate and create designs that enhance both natural environments and the communities they serve.
+Then there’s landscape design—working on parks, campuses, and public spaces, where the goal is to merge function with beauty. Here, the challenge is in balancing the needs of users with the ecological health of the site. How do we create spaces that are not only visually stunning but also sustain themselves over time? In my projects, I strive to create environments that feel both natural and intentional, where every path, bench, and tree has a purpose.
 
-# Education
-B.E., in Landscape Architecture, 2011
-in Harbin Institute of Technology, China
+Garden design is the most personal scale, and often the most rewarding. It's about creating a small world for someone, a place they can call their own and connect with on a daily basis. In garden design, every detail matters—the texture of the plants, the flow of the space, the play of light and shadow. It’s an intimate process, and I enjoy collaborating with clients to bring their visions to life, while still respecting the local environment.
 
-M.S., in Hydro Science and Engineering, 2016
-(Erasmus Mundus Joint Masters)
-in Instituto Superior Técnico, Protuga
-in IHE Delft Institute for Water Education, the Netherlands 
-and in Technische Universität Dresden, Germany
+Throughout my career, I’ve learned that landscape architecture isn’t just about aesthetics or sustainability—it’s about empathy. Understanding the needs of the community, the desires of a client, and the silent language of the land itself. Every project teaches me something new, and every space I design reflects not just a solution, but a story.
 
-# Work Experience
-Researcher, IHE Delft Institute for Water Education, 2018-2020
-About Multifunctional and Robust Design of Nature-Based Solutions for Hydro-meteorological Risk Reduction
-
-Landscape Architect, AUBE Conception, 2020-2022
-
-Freelance Landscape Designer, based in Berlin, 2022-present
+That’s what excites me about landscape architecture—the opportunity to make a meaningful impact at every scale, and to keep learning and evolving with each new challenge.
