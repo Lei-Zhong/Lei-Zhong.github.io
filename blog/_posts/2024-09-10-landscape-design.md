@@ -11,6 +11,8 @@ sitemap: false
 Designing at Every Scale: My Landscape Architecture Journey
 {:.lead}
 
+[garden design]: 
+
 From large-scale environmental planning to the intimate details of garden spaces, I’ve had the opportunity to work at all levels within the field. Each of these areas represents a unique set of skills and design approaches, and I’m excited to share my experience and insights with you.
 
 It only took me two days to make this website, from zero to at least working. It was easier than I thought, and thanks to the convenient tools and resources (Google, ChatPGT, GitHub, and Jekyll) I can learn it fast. Nowadays, we have many tools to build a simple website and everyone can just make their website. Maybe Laziness is indeed the biggest drive for technique advancement.
