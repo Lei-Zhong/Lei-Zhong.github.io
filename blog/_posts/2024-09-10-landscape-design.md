@@ -8,7 +8,7 @@ description: >
 sitemap: false
 ---
 
-A 10 years journey.
+Designing at Every Scale: My Landscape Architecture Journey
 {:.lead}
 
 From large-scale environmental planning to the intimate details of garden spaces, I’ve had the opportunity to work at all levels within the field. Each of these areas represents a unique set of skills and design approaches, and I’m excited to share my experience and insights with you.
