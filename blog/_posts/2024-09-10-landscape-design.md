@@ -11,8 +11,6 @@ sitemap: false
 Designing at Every Scale: My Landscape Architecture Journey
 {:.lead}
 
-Landscape architecture, to me, is about creating spaces that resonate with people and nature alike. It's more than just arranging plants or designing parks—it's about understanding how the environment and human experiences intertwine. Whether I'm working on a large city-scale project or a small garden design, I approach each with the same mindset: how can this space tell a story, solve a problem, or enhance life?
-
 One of the things I love about landscape architecture is its versatility. It spans so many scales, and each one requires a different set of eyes and skills. At the city scale, it's about zooming out, seeing the bigger picture—how green infrastructure can soften the harshness of urban life, how we can mitigate the impacts of climate change, or how public spaces can foster community interaction.
 
 ## Landscape Planning - City Scale
