@@ -4,7 +4,7 @@ title: AI Design Lab
 image: 
   path: /img/test.jpg
 description: >
-  How does design in future work?
+  Have you ever wondered how design will evolve in the future? The answer likely lies in AI.
 sitemap: false
 ---
 
