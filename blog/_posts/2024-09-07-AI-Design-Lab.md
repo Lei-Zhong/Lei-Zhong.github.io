@@ -2,7 +2,7 @@
 layout: post
 title: AI Design Lab
 image: 
-  path: /img/test3.jpg
+  path: /img/test4.jpg
 description: >
   Have you ever wondered how design will evolve in the future? The answer likely lies in AI.
 sitemap: false
