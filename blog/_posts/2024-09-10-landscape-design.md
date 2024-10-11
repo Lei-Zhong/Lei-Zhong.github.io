@@ -69,20 +69,21 @@ Garden design is a more intimate and detailed scale of landscape architecture, w
 ## Project List
 Here’s a quick overview of some of the key projects I’ve worked on:
 
-Shengang City Center Open Space
-Chiwan Community Landscape
-Gangtou Park Revitalization
-Campus Green Space Planning and GIS Analysis
-Private Garden Designs
+* Shengang City Center Open Space
+* Chiwan Community Landscape
+* Gangtou Park Revitalization
+* Campus Green Space Planning and GIS Analysis
+* Private Garden Designs
 
 ## Abilities
 Throughout my career, I have developed a range of skills that allow me to approach landscape architecture projects with a comprehensive and adaptable mindset:
 
-Master Planning & Green Infrastructure Development
-GIS & Data Analysis for Landscape Planning
-Sustainable Landscape Design
-Project Management
-Collaboration with Multidisciplinary Teams
-Client Communication and Concept Development
-Ecological Restoration & Park Design
-Detailed Garden and Small-Scale Project Design
+* Master Planning & Green Infrastructure Development
+* GIS & Data Analysis for Landscape Planning
+* Landscape Design
+* Urban Design
+* Graden Design
+* Project Management
+* Collaboration with Multidisciplinary Teams
+* Client Communication
+* Construction Drawing Design
