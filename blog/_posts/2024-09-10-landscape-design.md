@@ -15,7 +15,10 @@ One of the things I love about landscape architecture is its versatility. It spa
 
 ## Landscape Planning - City Scale
 ### Green Infrastructure for Risk Mitigation
-At the city scale, landscape planning focuses on creating sustainable, resilient urban environments through green infrastructure. My work in this area has included developing large-scale strategies that integrate natural systems—such as green corridors, rain gardens, and urban parks—into urban frameworks. By using nature-based solutions, these plans aim to improve urban resilience to climate change while enhancing livability and biodiversity.
+As cities continue to grapple with the complex challenges of climate change, flood risks, urban heat islands, and traffic congestion, the role of landscape planning at the city scale becomes increasingly critical. By integrating green infrastructure and nature-based solutions, we can create resilient, sustainable urban environments that address these risks head-on.
+
+In my previous research project in Saint Martín, I worked on a green infrastructure plan to mitigate flood risks, applying analytical tools to find effective solutions, to address questions such as: Where should interventions be placed? What type of green infrastructure will provide the most benefit? And, How can we model different scenarios to ensure the best outcomes for urban resilience?
+
 
 ### Campus: GIS Analysis
 On a smaller, yet equally impactful scale, I have used Geographic Information System (GIS) technology to analyze and plan campus landscapes. GIS provides a powerful tool for understanding topography, hydrology, and spatial patterns, allowing for more informed decision-making. My work in this area has involved optimizing green spaces on educational campuses, ensuring that they support both ecological functions and the needs of students, faculty, and staff.
