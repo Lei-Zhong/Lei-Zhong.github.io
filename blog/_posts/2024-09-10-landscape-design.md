@@ -56,7 +56,12 @@ Chiwan Community Center Swimming Pool
 {:.figcaption}
 
 ### Park: Gangtou
-The Gangtou Park project was centered on revitalizing a public park to enhance its ecological value and recreational potential. My design introduced a mix of active and passive spaces, including walking trails, picnic areas, and restored wetlands. This project aimed to create a harmonious balance between natural habitats and human use, ensuring that the park remains a vital green space for the community.
+The final project I present is a public park designed to enhance both its ecological value and recreational potential. This park was located in a reservoir, required to provide water resource protection as well as for recreation. The challenge in this project was finding the right balance between preserving the park’s natural habitats and introducing recreational features that would appeal to local residents. We implemented ecologically sound solutions, such as the use of native plants, permeable paving, and rainwater harvesting systems, to ensure that the park’s ecological footprint remained minimal.
+
+![Project5](/img/project5.png)
+
+A Post-Construction Photo: Gangtou Park's Floral Finale
+{:.figcaption}
 
 ## Garden Design
 Garden design is a more intimate and detailed scale of landscape architecture, where every element plays a crucial role in shaping the overall experience of the space. I’ve worked on several private gardens, focusing on creating personalized outdoor environments that reflect the unique tastes and needs of the client. Whether it’s a serene retreat or a vibrant, plant-filled oasis, garden design allows for a deep connection between people and nature.
