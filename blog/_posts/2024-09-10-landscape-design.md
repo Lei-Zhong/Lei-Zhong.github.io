@@ -13,7 +13,7 @@ Designing at Every Scale: My Landscape Architecture Journey
 
 One of the things I love about landscape architecture is its versatility. It spans so many scales, and each one requires a different set of eyes and skills. At the city scale, it's about zooming out, seeing the bigger picture—how green infrastructure can soften the harshness of urban life, how we can mitigate the impacts of climate change, or how public spaces can foster community interaction.
 
-## Landscape Planning - City Scale
+## Landscape Planning
 ### Green Infrastructure for Risk Mitigation
 As cities continue to grapple with the complex challenges of climate change, flood risks, urban heat islands, and traffic congestion, the role of landscape planning at the city scale becomes increasingly critical. By integrating green infrastructure and nature-based solutions, we can create resilient, sustainable urban environments that address these risks head-on.
 
