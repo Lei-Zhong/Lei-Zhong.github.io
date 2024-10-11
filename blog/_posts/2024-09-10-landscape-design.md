@@ -17,7 +17,7 @@ One of the things I love about landscape architecture is its versatility. It spa
 ### Green Infrastructure for Risk Mitigation
 As cities continue to grapple with the complex challenges of climate change, flood risks, urban heat islands, and traffic congestion, the role of landscape planning at the city scale becomes increasingly critical. By integrating green infrastructure and nature-based solutions, we can create resilient, sustainable urban environments that address these risks head-on.
 
-In my previous research project in Saint Martín, I worked on a green infrastructure plan to mitigate flood risks, applying analytical tools to find effective solutions, to address questions such as: Where should interventions be placed? What type of green infrastructure will provide the most benefit? And, How can we model different scenarios to ensure the best outcomes for urban resilience?
+In my previous research project in Saint Martín, I worked on a green infrastructure plan to mitigate flood risks, applying analytical tools to find effective solutions, to address questions such as: _Where should interventions be placed? What type of green infrastructure will provide the most benefit? And, How can we model different scenarios to ensure the best outcomes for urban resilience?_
 
 
 ### Campus: GIS Analysis
