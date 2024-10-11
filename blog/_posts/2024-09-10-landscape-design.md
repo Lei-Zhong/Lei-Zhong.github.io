@@ -74,10 +74,10 @@ Garden Design
 ## Project List
 Here’s a quick overview of some of the key projects I’ve worked on:
 
-* Shengang City Center Open Space
-* Chiwan Community Landscape
+* Shengang City Center Open Space Design
+* Chiwan Community Landscape Design
 * Gangtou Park Revitalization
-* Campus Green Space Planning and GIS Analysis
+* GIST Campus Planning
 * Private Garden Designs
 
 ## Abilities
