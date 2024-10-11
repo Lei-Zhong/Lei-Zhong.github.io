@@ -52,7 +52,7 @@ In contrast to the fast-paced environment of the city center, this second projec
 
 ![Project4](/img/project4.png)
 
-Shengang Square: A Multi-Layered Urban Tapestry
+Chiwan Community Center Swimming Pool
 {:.figcaption}
 
 ### Park: Gangtou
