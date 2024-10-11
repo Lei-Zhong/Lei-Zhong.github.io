@@ -35,8 +35,17 @@ GIS Analysis for Optimal Construction Location and Water Management in Songshan 
 {:.figcaption}
 
 ## Landscape Design
-### City Center: Open Space – Shengang
-In the heart of Shengang’s bustling city center, I worked on a major open space project designed to create a vibrant, accessible area for both residents and visitors. The design balances aesthetics and functionality, with green spaces, seating areas, and pathways that encourage movement and relaxation. It also incorporates sustainable elements, such as permeable paving and native plantings, to reduce environmental impact.
+Then there’s landscape design—working on parks, campuses, and public spaces, which delves into the finer details of how spaces are experienced and how they function on a more human scale. Here, I will present three unique projects, each with its own distinct challenge and focus area.
+
+### City Center Landmark: Creating a Dynamic Urban Space
+In the heart of a bustling city center, I worked on a project that aimed to create a new urban landmark for a thriving business district. This project presented several challenges, primarily the need to manage multiple layers of traffic while crafting a space that would be both iconic and functional.
+
+The project is called Shengang Square. Partnering with a renowned architectural firm, the design was not only about creating a visually striking landmark but also about improving the user experience.
+
+![Project3](/img/project3.png)
+
+Shengang Square: A Multi-Layered Urban Tapestry
+{:.figcaption}
 
 ### Community: Chiwan
 Chiwan is a community-focused project where the goal was to create an inclusive, interactive space that reflects the needs and values of local residents. My design incorporated playgrounds, community gardens, and shaded seating areas, fostering a sense of belonging and providing a multifunctional space for people of all ages to gather.
