@@ -42,12 +42,12 @@ In the heart of a bustling city center, I worked on a project that aimed to crea
 
 The project is called Shengang Square. Partnering with a renowned architectural firm, the design was not only about creating a visually striking landmark but also about improving the user experience.
 
-![Project3](/img/project3.png)
+![Project3](/img/project3.jpg)
 
 Shengang Square: A Multi-Layered Urban Tapestry
 {:.figcaption}
 
-### Community: Chiwan
+### Community Design: Fostering a Sense of Belonging
 Chiwan is a community-focused project where the goal was to create an inclusive, interactive space that reflects the needs and values of local residents. My design incorporated playgrounds, community gardens, and shaded seating areas, fostering a sense of belonging and providing a multifunctional space for people of all ages to gather.
 
 ### Park: Gangtou
