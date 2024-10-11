@@ -48,7 +48,12 @@ Shengang Square: A Multi-Layered Urban Tapestry
 {:.figcaption}
 
 ### Community Design: Fostering a Sense of Belonging
-Chiwan is a community-focused project where the goal was to create an inclusive, interactive space that reflects the needs and values of local residents. My design incorporated playgrounds, community gardens, and shaded seating areas, fostering a sense of belonging and providing a multifunctional space for people of all ages to gather.
+In contrast to the fast-paced environment of the city center, this second project focused on a more intimate scale—a community-centered landscape design aimed at creating spaces where residents could feel a sense of belonging and identity.
+
+![Project4](/img/project4.png)
+
+Shengang Square: A Multi-Layered Urban Tapestry
+{:.figcaption}
 
 ### Park: Gangtou
 The Gangtou Park project was centered on revitalizing a public park to enhance its ecological value and recreational potential. My design introduced a mix of active and passive spaces, including walking trails, picnic areas, and restored wetlands. This project aimed to create a harmonious balance between natural habitats and human use, ensuring that the park remains a vital green space for the community.
