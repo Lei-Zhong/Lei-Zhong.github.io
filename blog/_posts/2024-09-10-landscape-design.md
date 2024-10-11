@@ -21,7 +21,7 @@ In my previous research project in Saint Martín, I worked on a green infrastruc
 
 ![Project1](/img/project1.png)
 
-Using MIKE 11 for Flood Risk Reduction: A GIS-Based Approach to Green Infrastructure Planning in Saint Martín
+Using MIKE 11 and GIS for Green Infrastructure Planning for Flood Risk Reduction in Saint Martín
 {:.figcaption}
 
 ### Campus: GIS Analysis
