@@ -19,6 +19,10 @@ As cities continue to grapple with the complex challenges of climate change, flo
 
 In my previous research project in Saint Martín, I worked on a green infrastructure plan to mitigate flood risks, applying analytical tools to find effective solutions, to address questions such as: _Where should interventions be placed? What type of green infrastructure will provide the most benefit? And, How can we model different scenarios to ensure the best outcomes for urban resilience?_
 
+![Catus](https://raw.githubusercontent.com/Lei-Zhong/zh/main/img/Catus.png)
+
+Using MIKE 11 for Flood Risk Reduction: A GIS-Based Approach to Green Infrastructure Planning in Saint Martín
+{:.figcaption}
 
 ### Campus: GIS Analysis
 On a smaller, yet equally impactful scale, I have used Geographic Information System (GIS) technology to analyze and plan campus landscapes. GIS provides a powerful tool for understanding topography, hydrology, and spatial patterns, allowing for more informed decision-making. My work in this area has involved optimizing green spaces on educational campuses, ensuring that they support both ecological functions and the needs of students, faculty, and staff.
