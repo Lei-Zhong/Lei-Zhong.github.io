@@ -25,13 +25,13 @@ Using MIKE 11 and GIS for Green Infrastructure Planning for Flood Risk Reduction
 {:.figcaption}
 
 ### GIS Analysis for Informed Landscape Planning
-Geographic Information Systems (GIS) is a powerful tool that plays a key role in landscape planning at both large and small scale planning. By combining GIS with Rhino and Python, we are able to model spatial relationships, optimize pathways, determine functional location and refine our design to meet both different needs.
+Geographic Information Systems (GIS) is a powerful tool that plays a key role in landscape planning at both large and small scales. By combining GIS with Rhino and Python, we can model spatial relationships, optimize pathways, determine functional locations, and refine designs to meet diverse needs.
 
-For the GIST campus project, GIS analysis was pivotal in understanding the site's complex environment. Using GIS, we mapped the topography and hydrology of the area, identifying the suitable place for implementing key water management features such as ditches, retention ponds, and drainage systems. 
+In the GIST campus project, GIS analysis was pivotal in understanding the site's complex environmental dynamics. We mapped the topography and hydrology of the area, identifying suitable locations for key water management features such as ditches, retention ponds, and drainage systems. Similarly, in the Songshan Lake Park project, where I was responsible for ecological and sustainable design, GIS was instrumental in determining suitable construction locations. 
 
 ![Project2](/img/project2.png)
 
-Using MIKE 11 and GIS for Green Infrastructure Planning for Flood Risk Reduction in Saint Martín
+GIS Analysis for Optimal Construction Location and Water Management in Songshan Lake and GIST Campus Projects
 {:.figcaption}
 
 ## Landscape Design
