@@ -55,7 +55,7 @@ In contrast to the fast-paced environment of the city center, this second projec
 Chiwan Community Center Swimming Pool
 {:.figcaption}
 
-### Park: Gangtou
+### Park Design: Balancing Ecology and Recreation
 The final project I present is a public park designed to enhance both its ecological value and recreational potential. This park was located in a reservoir, required to provide water resource protection as well as for recreation. The challenge in this project was finding the right balance between preserving the park’s natural habitats and introducing recreational features that would appeal to local residents. We implemented ecologically sound solutions, such as the use of native plants, permeable paving, and rainwater harvesting systems, to ensure that the park’s ecological footprint remained minimal.
 
 ![Project5](/img/project5.png)
