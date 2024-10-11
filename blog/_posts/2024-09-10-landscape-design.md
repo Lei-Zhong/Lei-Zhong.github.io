@@ -23,6 +23,7 @@ In my previous research project in Saint Martín, I worked on a green infrastruc
 
 Using MIKE 11 and GIS for Green Infrastructure Planning for Flood Risk Reduction in Saint Martín
 {:.figcaption}
+
 ### Campus: GIS Analysis
 On a smaller, yet equally impactful scale, I have used Geographic Information System (GIS) technology to analyze and plan campus landscapes. GIS provides a powerful tool for understanding topography, hydrology, and spatial patterns, allowing for more informed decision-making. My work in this area has involved optimizing green spaces on educational campuses, ensuring that they support both ecological functions and the needs of students, faculty, and staff.
 
@@ -30,6 +31,7 @@ On a smaller, yet equally impactful scale, I have used Geographic Information Sy
 
 Using MIKE 11 and GIS for Green Infrastructure Planning for Flood Risk Reduction in Saint Martín
 {:.figcaption}
+
 ## Landscape Design
 ### City Center: Open Space – Shengang
 In the heart of Shengang’s bustling city center, I worked on a major open space project designed to create a vibrant, accessible area for both residents and visitors. The design balances aesthetics and functionality, with green spaces, seating areas, and pathways that encourage movement and relaxation. It also incorporates sustainable elements, such as permeable paving and native plantings, to reduce environmental impact.
