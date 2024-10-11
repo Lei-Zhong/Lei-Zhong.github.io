@@ -24,8 +24,10 @@ In my previous research project in Saint Martín, I worked on a green infrastruc
 Using MIKE 11 and GIS for Green Infrastructure Planning for Flood Risk Reduction in Saint Martín
 {:.figcaption}
 
-### Campus: GIS Analysis
-On a smaller, yet equally impactful scale, I have used Geographic Information System (GIS) technology to analyze and plan campus landscapes. GIS provides a powerful tool for understanding topography, hydrology, and spatial patterns, allowing for more informed decision-making. My work in this area has involved optimizing green spaces on educational campuses, ensuring that they support both ecological functions and the needs of students, faculty, and staff.
+### GIS Analysis for Informed Landscape Planning
+Geographic Information Systems (GIS) is a powerful tool that plays a key role in landscape planning at both large and small scale planning. By combining GIS with Rhino and Python, we are able to model spatial relationships, optimize pathways, determine functional location and refine our design to meet both different needs.
+
+For the GIST campus project, GIS analysis was pivotal in understanding the site's complex environment. Using GIS, we mapped the topography and hydrology of the area, identifying the suitable place for implementing key water management features such as ditches, retention ponds, and drainage systems. 
 
 ![Project2](/img/project2.png)
 
