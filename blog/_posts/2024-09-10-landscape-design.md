@@ -66,6 +66,11 @@ A Post-Construction Photo: Gangtou Park's Floral Finale
 ## Garden Design
 Garden design is a more intimate and detailed scale of landscape architecture, where every element plays a crucial role in shaping the overall experience of the space. I’ve worked on several private gardens, focusing on creating personalized outdoor environments that reflect the unique tastes and needs of the client. Whether it’s a serene retreat or a vibrant, plant-filled oasis, garden design allows for a deep connection between people and nature.
 
+![Project6](/img/project6.png)
+
+Garden Design
+{:.figcaption}
+
 ## Project List
 Here’s a quick overview of some of the key projects I’ve worked on:
 
