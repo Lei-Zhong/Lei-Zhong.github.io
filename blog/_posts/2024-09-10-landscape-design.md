@@ -29,7 +29,7 @@ Geographic Information Systems (GIS) is a powerful tool that plays a key role in
 
 In the GIST campus project, GIS analysis was pivotal in understanding the site's complex environmental dynamics. We mapped the topography and hydrology of the area, identifying suitable locations for key water management features such as ditches, retention ponds, and drainage systems. Similarly, in the Songshan Lake Park project, where I was responsible for ecological and sustainable design, GIS was instrumental in determining suitable construction locations. 
 
-![Project2](/img/project2.png)
+![Project2-3](/img/project2-3.png)
 
 GIS Analysis for Optimal Construction Location and Water Management in Songshan Lake and GIST Campus Projects
 {:.figcaption}
