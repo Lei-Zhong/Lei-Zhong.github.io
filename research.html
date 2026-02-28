@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research - About</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Libre+Baskerville:wght@400;700&family=Crimson+Text:wght@400;600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-dark: #1a2f3a;
+            --primary-mid: #2d4a56;
+            --primary-light: #3d5f6d;
+            --accent-teal: #4a7c7e;
+            --accent-sage: #6b8e7f;
+            --text-light: #e8f0f2;
+            --text-dim: #b0c4c9;
+            --bg-card: rgba(45, 74, 86, 0.2);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Karla', sans-serif;
+            background: linear-gradient(to bottom, var(--primary-dark) 0%, var(--primary-mid) 100%);
+            color: var(--text-light);
+            min-height: 100vh;
+            line-height: 1.7;
+        }
+
+        nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background: rgba(26, 47, 58, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(232, 240, 242, 0.1);
+            z-index: 1000;
+            padding: 0;
+        }
+
+        .nav-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 25px 60px;
+        }
+
+        .nav-left {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 1.3rem;
+            font-weight: 1000;
+            color: var(--text-light);
+        }
+
+        .nav-right {
+            display: flex;
+            gap: 50px;
+            list-style: none;
+        }
+
+        .nav-right a {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.1rem;
+            color: var(--text-dim);
+            text-decoration: none;
+            transition: color 0.3s ease;
+            position: relative;
+        }
+
+        .nav-right a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--accent-teal);
+            transition: width 0.3s ease;
+        }
+
+        .nav-right a:hover::after,
+        .nav-right a.active::after {
+            width: 100%;
+        }
+
+        .nav-right a:hover,
+        .nav-right a.active {
+            color: var(--text-light);
+        }
+
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 150px 40px 80px;
+        }
+
+        .hero {
+            margin-bottom: 80px;
+            opacity: 0;
+            animation: fadeIn 1s ease forwards 0.2s;
+        }
+
+        h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 2.5rem;
+            font-weight: 400;
+            margin-bottom: 30px;
+            letter-spacing: -0.01em;
+            line-height: 1.2;
+        }
+
+        .intro {
+            font-size: 1.25rem;
+            color: var(--text-dim);
+            line-height: 1.9;
+            margin-bottom: 40px;
+        }
+
+        section {
+            margin-bottom: 70px;
+            opacity: 0;
+            animation: fadeIn 1s ease forwards;
+        }
+
+        section:nth-child(2) { animation-delay: 0.4s; }
+        section:nth-child(3) { animation-delay: 0.6s; }
+        section:nth-child(4) { animation-delay: 0.8s; }
+
+        h2 {
+            font-family: 'Crimson Text', serif;
+            font-size: 2.1rem;
+            font-weight: 600;
+            margin-bottom: 30px;
+            color: var(--accent-sage);
+            letter-spacing: 0.01em;
+        }
+
+        .bio-section p {
+            margin-bottom: 20px;
+            font-size: 1.05rem;
+            color: var(--text-dim);
+            line-height: 1.7;
+        }
+
+        .education-item {
+            padding: 5px 0;
+            border-bottom: 1px solid rgba(232, 240, 242, 0.1);         
+        }
+        
+        .education-item:last-child {
+            border-bottom: none;
+            margin-top: 20px;            
+        }
+        
+        .education-degree {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .education-institution {
+            font-size: 1.1rem;
+            color: var(--accent-teal);
+            margin-bottom: 2px;
+        }
+
+        .education-year {
+            font-size: 0.95rem;
+            color: var(--text-dim);
+            font-style: italic;
+            margin-top: 3px;
+            margin-bottom: 20px;            
+        }
+
+        .interests-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .interest-item {
+            background: var(--bg-card);
+            padding: 25px;
+            border-radius: 3px;
+            border-left: 2px solid var(--accent-teal);
+        }
+
+        .interest-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--text-light);
+        }
+
+        .interest-description {
+            font-size: 0.95rem;
+            color: var(--text-dim);
+            line-height: 1.6;
+        }
+
+        .works-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .works-list li {
+            background: var(--bg-card);
+            border: 1px solid rgba(232, 240, 242, 0.08);
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 3px;
+            border-left: 3px solid var(--accent-teal);
+        }
+
+        .work-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--text-light);
+            margin-bottom: 10px;
+        }
+
+        .work-meta {
+            font-size: 0.95rem;
+            color: var(--accent-sage);
+            margin-bottom: 10px;
+        }
+
+        .work-description {
+            font-size: 1rem;
+            line-height: 1.7;
+            color: var(--text-dim);
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 0 20px;
+            margin-top: 60px;
+            border-top: 1px solid rgba(232, 240, 242, 0.1);
+            font-size: 0.9rem;
+            color: var(--text-dim);
+            opacity: 0;
+            animation: fadeIn 1s ease forwards 1s;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .nav-content {
+                padding: 20px 30px;
+            }
+
+            .nav-right {
+                gap: 25px;
+                font-size: 0.95rem;
+            }
+
+            h1 {
+                font-size: 2.5rem;
+            }
+
+            .interests-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="nav-content">
+            <div class="nav-left">Research</div>
+            <ul class="nav-right">
+                <li><a href="research.html" class="active">About</a></li>
+                <li><a href="research-cv.html">CV</a></li>
+                <li><a href="index.html">More</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>        
+        <section class="bio-section">
+            <h1>Hi, I'm Lei Zhong</h1>
+            <p>I work at the intersection of urban ecosystems, biodiversity, and conservation, focusing on enhancing urban habitat quality and reconnecting people with nature. My research interests include how endangered and native species thrive in cities, how public participation shapes green spaces, and how sustainable design practices can support both people and wildlife.</p>
+            <p>I combine hands-on conservation with analytical approaches, using mapping, GIS, and modelling to study the environment, ecosystems, and their stressors, predict outcomes, and support evidence-based conservation. I am also experienced in citizen science, including environmental data collection, volunteer management, and outreach. Additionally, I enjoy exploring interactive tools to engage the public in meaningful ways.</p>
+            <p>Below, you can explore my academic background, research interests, and related works. I am passionate about research and enjoy observing, analysing, and understanding the natural world, sharing insights that guide conservation and design practice. I am also eager to explore further study opportunities and contribute to new research developments.</p>
+        </section>
+
+        <section>
+            <h2>Academic Journey</h2>
+            <div class="education-item">
+                <div class="education-degree">Bachelor of Engineering in Landscape Architecture</div>
+                <div class="education-institution">Harbin Institute of Technology, Harbin, China</div>
+                <div class="education-year">2011-2016</div>
+            </div>
+            <div class="education-item">
+                <div class="education-degree">Master of Science in Hydro Science and Engineering</div>
+                <div class="education-institution">Dresden University of Technology, Germany</div>
+                <div class="education-institution">IHE Delft Institute for Water Education, the Netherlands</div>
+                <div class="education-institution">University of Lisbon - Técnico Lisboa (IST), Portugal</div>
+                <div class="education-year">2016-2018</div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Research Interests</h2>
+            <div class="interests-grid">
+                <div class="interest-item">
+                    <div class="interest-title">Urban Habitat Quality</div>
+                    <div class="interest-description">Studying urban habitats’ ecological quality, biodiversity, and capacity to adapt to environmental change, and how they can support native and endangered species.</div>
+                </div>
+                <div class="interest-item">
+                    <div class="interest-title">Human–Nature Connection in Cities</div>
+                    <div class="interest-description">Investigating community-based and citizen science approaches that strengthen human engagement with urban nature and foster environmental stewardship.</div>
+                </div>
+                <div class="interest-item">
+                    <div class="interest-title">Sustainable Urban Design</div>
+                    <div class="interest-description">Integrating diverse methodologies to address research questions from multiple perspectives and scales.</div>
+                </div>
+                <div class="interest-item">
+                    <div class="interest-title">Spatial and Interactive Tools for Urban Conservation</div>
+                    <div class="interest-description">Using AI, numerical modelling, and spatial analysis to study urban ecosystems and support evidence-based conservation with interactive public engagement.</div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Related Works</h2>
+            <ul class="works-list">
+                <li>
+                    <div class="work-title">Research on Vertical Greening Construction Models in High-Density Urban Areas</div>
+                    <div class="work-meta">Undergraduate Research | 2016</div>
+                    <div class="work-description">
+                        Explored different types of vertical greening and their potential to improve environmental quality in high-density areas, such as in Singapore and Guangzhou.
+                    </div>
+                </li>
+                <li>
+                    <div class="work-title">Modelling the Response of an Alluvial Multi-Layer Aquifer to Variations in Pumping Rates and Locations Within a Conjunctive Water Supply System – Case Study of Cauca Valley, Colombia</div>
+                    <div class="work-meta">Master's Thesis | 2018</div>
+                    <div class="work-description">
+                        Applied iMod and Python for groundwater flow modelling and evaluated the impact of the pumping strategies in Cauca Valley, Colombia.
+                    </div>
+                </li>
+                <li>
+                    <div class="work-title">Combining water engineering and landscape architecture practices for multifunctional and robust design of Nature-Based Solutions</div>
+                    <div class="work-meta">Conference Paper | 2020</div>
+                    <div class="work-description">
+                        Presented an interdisciplinary approach to integrating water engineering and landscape design for urban resilience through Nature-Based Solutions
+                    </div>
+                </li>
+                <li>
+                    <div class="work-title">Distribution characteristics and protection recommendations of Halophila beccarii seagrass beds in Tangjiawan, Zhuhai</div>
+                    <div class="work-meta">Paper under Review | 2026</div>
+                    <div class="work-description">
+                        Conducted field surveys of Halophila beccarii seagrass beds in densely populated urban coastal areas to assess distribution changes associated with the post-COVID surge in tourism and beach harvesting, and developed evidence-based conservation recommendations
+                    </div>
+                </li>
+                <li>
+                    <div class="work-title">Blue Cleaner Program Report on Seabed Debris (2019–2025)</div>
+                    <div class="work-meta">Report in preparation | 2026</div>
+                    <div class="work-description">
+                        Analysed seven years of seabed debris removal data to assess waste composition, sources, and trends, and developed environmental management and protection recommendations
+                    </div>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        © 2026 Lei Zhong. All rights reserved.
+    </footer>
+</body>
+</html>

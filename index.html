@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lei Zhong</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600&family=Libre+Baskerville:wght@400;700&family=Karla:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-dark: #1a2f3a;
+            --primary-mid: #2d4a56;
+            --primary-light: #3d5f6d;
+            --accent-teal: #4a7c7e;
+            --accent-sage: #6b8e7f;
+            --text-light: #e8f0f2;
+            --text-dim: #b0c4c9;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Karla', sans-serif;
+            background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary-mid) 100%);
+            color: var(--text-light);
+            min-height: 100vh;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(circle at 20% 30%, rgba(74, 124, 126, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, rgba(107, 142, 127, 0.08) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .container {
+            position: relative;
+            z-index: 1;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 80px 40px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 120px;
+            opacity: 0;
+            animation: fadeInDown 1s ease forwards;
+        }
+
+        h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 4rem;
+            font-weight: 400;
+            letter-spacing: 0.02em;
+            margin-bottom: 20px;
+            color: var(--text-light);
+        }
+
+        h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 1.5rem;
+            font-weight: 300;
+            letter-spacing: 0.02em;
+            margin-bottom: 20px;
+            color: var(--text-light);
+        }        
+        
+        .subtitle {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.5rem;
+            font-weight: 300;
+            color: var(--text-dim);
+            font-style: italic;
+        }
+
+        .sections {
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            gap: 50px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .section-card {
+            position: relative;
+            padding: 60px 40px;
+            background: rgba(45, 74, 86, 0.3);
+            border: 1px solid rgba(232, 240, 242, 0.1);
+            border-radius: 2px;
+            cursor: pointer;
+            transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            transform: translateY(30px);
+            text-decoration: none;
+            display: block;
+            overflow: hidden;
+        }
+
+        .section-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, transparent 0%, rgba(74, 124, 126, 0.15) 100%);
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        .section-card:hover::before {
+            opacity: 1;
+        }
+
+        .section-card:nth-child(1) {
+            animation: fadeInUp 0.8s ease forwards 0.3s;
+        }
+
+        .section-card:nth-child(2) {
+            animation: fadeInUp 0.8s ease forwards 0.5s;
+        }
+
+        .section-card:nth-child(3) {
+            animation: fadeInUp 0.8s ease forwards 0.7s;
+        }
+
+        .section-card:hover {
+            transform: translateY(-10px);
+            border-color: rgba(74, 124, 126, 0.4);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        .section-number {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 5rem;
+            font-weight: 300;
+            color: rgba(232, 240, 242, 0.1);
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            line-height: 1;
+        }
+
+        .section-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 20px;
+            color: var(--text-light);
+            position: relative;
+            z-index: 2;
+        }
+
+        .section-description {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: var(--text-dim);
+            position: relative;
+            z-index: 2;
+        }
+
+        .section-arrow {
+            position: absolute;
+            bottom: 30px;
+            right: 30px;
+            width: 40px;
+            height: 40px;
+            opacity: 0;
+            transform: translateX(-20px);
+            transition: all 0.4s ease;
+        }
+
+        .section-card:hover .section-arrow {
+            opacity: 0.6;
+            transform: translateX(0);
+        }
+
+        .section-arrow svg {
+            width: 100%;
+            height: 100%;
+            stroke: var(--text-light);
+            fill: none;
+            stroke-width: 1.5;
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 1024px) {
+            .sections {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+
+            h1 {
+                font-size: 3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h2>Personal website of</h2>
+            <h1>Lei Zhong</h1>
+            <p class="subtitle">Let's start the journey of inquiry, creation, and reflection together.</p>
+        </header>
+
+        <div class="sections">
+            <a href="research.html" class="section-card">
+                <span class="section-number">01</span>
+                <h2 class="section-title">Research</h2>
+                <p class="section-description">Academic foundations and interdisciplinary inquiry driven by curiosity and exploration.</p>
+                <p class="section-description">Through research, I seek to understand the world better and explore ways to reconnect people and nature.</p>                
+                <div class="section-arrow">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M5 12h14M12 5l7 7-7 7"/>
+                    </svg>
+                </div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
